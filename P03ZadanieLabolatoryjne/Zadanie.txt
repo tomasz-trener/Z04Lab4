@@ -1,0 +1,18 @@
+﻿
+
+1) prosze pobrać system bazy danych Micrososft SQL server express 2019 ze strony microsoft
+2) posze porbrac program sql server managmenet studio (służyćn nam będzie tylko do przywrócenia kopii zapasowej)
+
+3) proszę przyrócić kopię z tomaszles.pl/db  na swój własny lokalny server 
+
+4) proszę sprawdzić czy udało się lokanie polaczyc z bazą z programu 
+
+5) przetestuj program tworząc różne polcenia SQL np: 
+  dodaj zawodnika do bazy danych (polecenie insert )
+  usun zawodnika z bazy (polecenie delete )
+  edytuj zawodnikaz bazy (polecenie update )
+
+  https://www.w3schools.com/sql/
+
+6)* Stwórz klasę ManagerZawodników, która dostarcza metodę "PodajZawodnikow()" , która zwraca tablicę zawodnikow 
+
